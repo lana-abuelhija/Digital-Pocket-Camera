@@ -1,4 +1,4 @@
-## XXXXX Project by :  
+## Digital Pocket Camera Project by :  Lana Abu El Hija, Eman Barbour and Bayan Abualhega
   
 ## Details about the project
  
